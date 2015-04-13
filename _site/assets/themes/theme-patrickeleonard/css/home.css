@@ -1,0 +1,16 @@
+div.tile {
+
+    position: relative;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 3px solid;
+    border-color: #fff;
+    border-radius: 10px;
+
+}
+
+div.tile:hover {
+
+    border-color: #6797e5;
+
+}

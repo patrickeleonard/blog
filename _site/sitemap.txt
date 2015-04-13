@@ -1,0 +1,12 @@
+
+http://blog.patrickeleonard.com/archive.html
+http://blog.patrickeleonard.com/atom.xml
+http://blog.patrickeleonard.com/categories.html
+http://blog.patrickeleonard.com/index.html
+http://blog.patrickeleonard.com/pages.html
+http://blog.patrickeleonard.com/rss.xml
+http://blog.patrickeleonard.com/sitemap.txt
+http://blog.patrickeleonard.com/tags.html
+
+http://blog.patrickeleonard.com/general/2014/07/28/a-quick-jaunt-to-oklahoma
+http://blog.patrickeleonard.com/general/2014/07/22/basics-for-beginners

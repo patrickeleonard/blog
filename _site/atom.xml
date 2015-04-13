@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Patrick E Leonard</title>
+ <link href="http://blog.patrickeleonard.com/" rel="self"/>
+ <link href="http://blog.patrickeleonard.com"/>
+ <updated>2015-04-13T16:37:56-07:00</updated>
+ <id>http://blog.patrickeleonard.com</id>
+ <author>
+   <name>Patrick E Leonard</name>
+   <email>patrickeleonard@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>A Quick Jaunt To Oklahoma</title>
+   <link href="http://blog.patrickeleonard.com/general/2014/07/28/a-quick-jaunt-to-oklahoma"/>
+   <updated>2014-07-28T00:00:00-07:00</updated>
+   <id>http://blog.patrickeleonard.com/general/2014/07/28/a-quick-jaunt-to-oklahoma</id>
+   <content type="html">
+&lt;p&gt;This past weekend I took a trip with Ed Ingerman, a dear friend and former roommate, to Oklahoma for no particular reason than to say I’d been to Oklahoma. Driving that far south in July is about as batshit ridiculous as ideas come these days, so naturally Ed and I were the perfect team for the job.&lt;/p&gt;
+
+&lt;p&gt;It was, frankly, too hot to even consider writing about this particular endeavor. So, unable to join together multiple coherent thoughts at a time, I started coming up with a collection of possible subtitles.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;…in which I lose a fistful of electrolytes and then OD on Gatorade&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;…in which not having AC in the car provides our protagonist with his first “I’ve made a huge mistake” moment&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;…in which I take “car camping” to mean “camping inside your actual car because who needs tents and HOLY SHIT I NEED TO SLEEP LITERALLY ANYWHERE BUT INSIDE THIS CAR”&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;On the other hand, Missouri, Oklahoma, and Kansas were my 43rd, 44th, and 45th states of the union, which is pretty cool. Hopefully the worst is behind us now and states 46-50 will be less… swampy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quote of the weekend:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Hey Patrick, this campsite (and by campsite we mean an abandoned parking lot in northern Oklahoma) is really sketchy.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Thanks Ed.&lt;/p&gt;
+
+&lt;p&gt;Till next time, right?&lt;/p&gt;
+
+&lt;h3 id=&quot;pictures&quot;&gt;Pictures!&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Underexposed sunset, coincidentally the best photograph of the weekend: (photo credit to Ed)&lt;/em&gt;
+&lt;img src=&quot;/assets/images/2014-07-28-a-quick-jaunt-to-oklahoma/sunset.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Illinois State Capitol selfie: the only one in which we somehow don’t both look complete goobers:&lt;/em&gt;
+&lt;img src=&quot;/assets/images/2014-07-28-a-quick-jaunt-to-oklahoma/selfie.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Basics For Beginners</title>
+   <link href="http://blog.patrickeleonard.com/general/2014/07/22/basics-for-beginners"/>
+   <updated>2014-07-22T00:00:00-07:00</updated>
+   <id>http://blog.patrickeleonard.com/general/2014/07/22/basics-for-beginners</id>
+   <content type="html">
+&lt;h2 id=&quot;so-here-we-are&quot;&gt;So here we are&lt;/h2&gt;
+
+&lt;p&gt;Despite the helpful efforts of countless programmers far more skilled than I, somehow I screwed things up on every step of the way up to this point. But in the end, here we are. &lt;/p&gt;
+
+&lt;p&gt;My name is Patrick, and this is a blog. I’m learning all sorts of wonderful things along the way. Examples: proper use of grammar, an abridged history of emo music, and discovering my woeful inadequacy with CSS. But we’ll keep moving along.&lt;/p&gt;
+
+&lt;p&gt;I expect a lot of things to change as I start to actually understand what I’m doing. But hey, that’s the fun part, right?&lt;/p&gt;
+
+&lt;p&gt;Here’s to learning and growing, and to the next great adventure.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
