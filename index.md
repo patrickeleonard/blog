@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome.
+title: Welcome
 tagline: My name is Patrick. This is a blog.
 ---
 {% include JB/setup %}

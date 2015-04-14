@@ -3,15 +3,6 @@
 </div> -->
 
 
-<!-- <div class="row post-full">
-  <div class="col-xs-12">
-    <div class="date">
-      <span>{{ page.date | date_to_long_string }}</span>
-    </div>
-    <div class="content">
-      {{ content }}
-    </div> -->
-
 <div class="row post-full">
   <div class="col-xs-12">
     <div class="date">
@@ -37,6 +28,7 @@
     </ul>
   {% endunless %}  
   
+  <div align="center">
     <hr>
     <ul class="pagination">
     {% if page.previous %}
@@ -45,6 +37,7 @@
       <li class="prev disabled"><a>&larr; Previous</a></li>
     {% endif %}
       <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
+      <li><a href="#top">Back to Top</a></li>
     {% if page.next %}
       <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &raquo;</a></li>
     {% else %}
@@ -52,6 +45,7 @@
     {% endif %}
     </ul>
     <hr>
+  </div>
     {% include JB/comments %}
   </div>
 </div>
