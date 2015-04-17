@@ -10,10 +10,39 @@
 */
 
 
+/* Style that applies only to the blog, not to the rest of the site (that's found in core.css) */
+
 .post-content {
   margin-left: 100px;
   margin-right: 100px;
 }
+
+div.post-content > p {
+  font-family: "Century Schoolbook", Georgia, serif;
+  font-size: 20px;
+}
+
+div.post-content > blockquote {
+  border-left: 8px solid;
+  padding-left: 10px;
+  margin-left: 100px;
+  border-color: #6797e5;
+  width: 500px;
+}
+
+div.post-content > blockquote > p {
+  font-size: 18px;
+  font-style: italic;
+}
+
+div.post-content > ul > li > p {
+  margin-right: 100px;
+  font-family: "Century Schoolbook", Georgia, serif;
+  font-size: 20px;
+}
+
+
+/* original JB style */
 
 /* posts index */
 .post > h3.title {
