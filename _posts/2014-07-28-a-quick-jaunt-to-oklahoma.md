@@ -29,7 +29,7 @@ Thanks Ed.
 Till next time, right?
 
 
-### Pictures!
+# Pictures!
 
 
 *Underexposed sunset, coincidentally the best photograph of the weekend: (photo credit to Ed)*
