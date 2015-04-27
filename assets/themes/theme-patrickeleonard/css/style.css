@@ -19,11 +19,11 @@
 
 div.post-content > p {
   font-family: "Century Schoolbook", Georgia, serif;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 div.post-content > blockquote {
-  border-left: 8px solid;
+  border-left: 4px solid;
   padding-left: 10px;
   margin-left: 100px;
   border-color: #6797e5;
@@ -38,7 +38,14 @@ div.post-content > blockquote > p {
 div.post-content > ul > li > p {
   margin-right: 100px;
   font-family: "Century Schoolbook", Georgia, serif;
-  font-size: 20px;
+  font-size: 16px;
+}
+
+/* this is essentially a "separator" div in headings on the blog */
+div.post-content > h1 {
+  border-top: 3px solid #6797e5;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 
