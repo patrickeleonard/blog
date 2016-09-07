@@ -26,7 +26,7 @@ I presently find myself on a weird commuter train from New Jersey, somehow the l
 
 - Holy shit, these headings are ridiculous. Gotta change that.
 
-- There should totally be a version ot Twitter for things like blogposts, that limits you to one paragraph or something instead of 140 characters.
+- There should totally be a version of Twitter for things like blogposts, that limits you to one paragraph or something instead of 140 characters.
 
 - I need to write more songs.
 
